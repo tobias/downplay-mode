@@ -7,11 +7,13 @@ demo or presentation.
 
 # See it in action
 
-![demo]()
+![demo](https://raw2.github.com/tobias/downplay-mode/master/demo.gif)
 
 # Learn more
 
-By reading the [docs for the mode]() directly.
+By reading the
+[docs for the mode](/tobias/downplay-mode/blob/master/downplay-mode.el#L27)
+directly.
 
 # Install
 
@@ -21,4 +23,6 @@ The latest version is `0.1`, and is available via
     M-x package-install RET downplay-mode RET
     
 # License
+
+See [here](/tobias/downplay-mode/blob/master/downplay-mode.el#L12).
 
