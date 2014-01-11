@@ -12,7 +12,7 @@ demo or presentation.
 # Learn more
 
 By reading the
-[docs for the mode](/tobias/downplay-mode/blob/master/downplay-mode.el#L27)
+[docs for the mode](/downplay-mode.el#L27)
 directly.
 
 # Install
@@ -24,5 +24,5 @@ The latest version is `0.1`, and is available via
     
 # License
 
-See [here](/tobias/downplay-mode/blob/master/downplay-mode.el#L12).
+See [here](/downplay-mode.el#L12).
 
