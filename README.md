@@ -7,7 +7,7 @@ demo or presentation.
 
 # See it in action
 
-![demo](https://raw2.github.com/tobias/downplay-mode/master/demo.gif)
+![demo](https://github.com/tobias/downplay-mode/master/demo.gif)
 
 # Learn more
 
