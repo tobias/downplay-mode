@@ -18,11 +18,12 @@ directly.
 # Install
 
 The latest version is `0.1`, and is available via
-[Marmalade](http://marmalade-repo.org/packages/downplay-mode/) and [MELPA](http://melpa.milkbox.net/):
+[Marmalade](http://marmalade-repo.org/packages/downplay-mode/),
+[MELPA](http://melpa.org/), and
+[MELPA Stable](http://stable.melpa.org/):
 
     M-x package-install RET downplay-mode RET
-    
+
 # License
 
 See [here](/downplay-mode.el#L12).
-
