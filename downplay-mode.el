@@ -54,6 +54,11 @@
 ;; active. The default downplay-face sets the height of the text to
 ;; 0.75. 
 
+;;; Code:
+
+(eval-when-compile
+  (require 'cl))
+
 (make-variable-buffer-local
  (defvar downplay-overlays))
 
